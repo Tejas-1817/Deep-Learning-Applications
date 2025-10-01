@@ -1,0 +1,1 @@
+This repository contains a Python deep learning project that performs basic sentiment analysis using a Recurrent Neural Network (RNN) built with TensorFlow/Keras. The project uses a small custom dataset of positive and negative sentences to train a simple model and then predicts the sentiment of new sentences.
